@@ -1,0 +1,7 @@
+target/
+build/
+.git
+.gitignore
+*.iml
+.idea/
+*.md
